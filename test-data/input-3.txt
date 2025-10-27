@@ -1,4 +1,4 @@
-#SINGLE: ha a következő tároló üres akkor a másikat probálja
+#SINGLE: ha a következő tároló üres akkor a másikat probálja(második üres)
 GT4500,2,0,0,0
 TORPEDO,SINGLE
 TORPEDO,SINGLE
