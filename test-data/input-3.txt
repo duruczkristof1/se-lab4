@@ -1,0 +1,2 @@
+GT4500,0,0,10,0   # Primary tár üres (0), Secondary-ben van torpedó (10)
+TORPEDO,SINGLE    # A primary üres, ezért átvált a secondary-re
