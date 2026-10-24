@@ -1,0 +1,3 @@
+GT4500,10,0,10,0  # Hajó létrehozása (mindkét tárban van torpedó, nem hibásodnak meg)
+TORPEDO,SINGLE    # 1. tüzelés -> Primary store-ból kell lőnie
+TORPEDO,SINGLE    # 2. tüzelés -> Secondary store-ból kell lőnie (váltakozva)
